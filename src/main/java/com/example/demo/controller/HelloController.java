@@ -10,6 +10,6 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String getHello() {
-        return "hello world2";
+        return "hello22 world22";
     }
 }
